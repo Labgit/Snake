@@ -1,0 +1,21 @@
+#content {
+    width:100%;
+    max-width: 100%;
+}
+
+#wrap {
+    width: 1200px;
+    height: 850px;
+    margin: auto;
+}
+
+#snake-header{
+    padding-top: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+#snake-launch{
+    float:right;
+}
